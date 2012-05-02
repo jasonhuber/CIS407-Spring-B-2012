@@ -1,0 +1,92 @@
+<html>
+	<head>
+		<title>This is in the tab.</title>
+		<style>
+			#container
+			{
+				background-color:lightgray;
+				padding:2px;
+				height:100%;
+				width:1024 px;
+				margin-left:auto;
+				margin-right:auto;
+			}
+			.sidebar
+			{
+				margin-right:3 px;
+				border-style:solid;
+				border-width:2 px;
+				padding: 2 px;
+				width:120 px;
+				margin-top:3 px;
+				height:300 px;
+			}
+			#sidebarcontainer
+			{
+				float:left;
+			}
+			#content
+			{
+				background-color:#ffffff;
+				border-style:solid;
+				border-width:2 px;
+				float:right;
+				width:880 px;
+				margin-top:3 px;
+				height:614 px;
+			}
+		</style>
+		<script>
+			function ValidateMe()
+			{
+				var msg = "";
+				if(document.thisForm.txtName.value.length <= 0)
+				{
+					msg += "You must enter a name!\n";
+				}
+				if(document.thisForm.txtEmail.value.length <= 0)
+				{
+					msg += "You must enter an email!\n";
+				}
+				if(document.thisForm.txtComments.value.length <=0)
+				{
+					msg += "You must enter a comment\n";
+				}
+				if(msg.length >0)
+				{
+					alert(msg);
+					return false;
+				}
+				else
+				{
+					return true;
+				}	
+			}
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<div id="mainhead">
+				<h1>This is the head!</h1>
+			</div>
+			<div id="sidebarcontainer">	
+				<div id="sidebar1" class="sidebar">
+					This is the side!
+				</div>
+				<div id="sidebar2" class="sidebar">
+					This is the side!
+				</div>		
+			</div>
+			<div id="content">
+				<form name="thisForm" action="mailto:notme@hotmails.com" onsubmit="return ValidateMe()">
+					Name: <input type="text" name="txtName" /> <br />
+					Email: <input type="text" name="txtEmail" /> <br />
+					Comments: <textarea name="txtComments" rows="10" cols="50"></textarea> <br />
+					<input type="submit" name="cmdSubmit" value="Submit!" />
+				</form>
+			
+			</div>
+			
+		</div>
+	</body>
+</html>

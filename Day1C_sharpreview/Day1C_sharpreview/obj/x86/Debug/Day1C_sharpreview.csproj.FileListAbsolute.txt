@@ -1,0 +1,9 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\bin\Debug\Day1C_sharpreview.exe
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\bin\Debug\Day1C_sharpreview.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\Day1C_sharpreview.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\Day1C_sharpreview.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\Day1C_sharpreview.exe
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\Day1C_sharpreview\Day1C_sharpreview\obj\x86\Debug\Day1C_sharpreview.pdb
