@@ -1,0 +1,11 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\bin\Debug\week3MathConsumer.exe
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\bin\Debug\week3MathConsumer.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\week3MathConsumer.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\week3MathConsumer.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\week3MathConsumer.exe
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\obj\x86\Debug\week3MathConsumer.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\bin\Debug\Math.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\week3MathConsumer\bin\Debug\Math.pdb

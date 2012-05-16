@@ -1,0 +1,7 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\bin\Week3MathWebConsumer.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\bin\Week3MathWebConsumer.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\bin\Math.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\bin\Math.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\obj\Debug\Week3MathWebConsumer.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Week3MathWebConsumer\obj\Debug\Week3MathWebConsumer.pdb

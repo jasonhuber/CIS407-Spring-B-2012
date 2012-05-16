@@ -1,0 +1,5 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Math\Math\bin\Debug\Math.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Math\Math\bin\Debug\Math.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Math\Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Math\Math\obj\Debug\Math.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\2012SPB\week3dll\Math\Math\obj\Debug\Math.pdb
