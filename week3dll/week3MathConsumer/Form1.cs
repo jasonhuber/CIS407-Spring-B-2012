@@ -24,5 +24,21 @@ namespace week3MathConsumer
             lblResult.Text = myCalc.Add(Convert.ToInt16(txtNum1.Text), Convert.ToInt16(txtNum2.Text)).ToString();
 
         }
+
+        private void btnDivide_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                hub3r.Calc myCalc = new hub3r.Calc();
+
+                //lblResult.Text = (Convert.ToInt16(txtNum1.Text) + Convert.ToInt16(txtNum2.Text)).ToString();
+                lblResult.Text = myCalc.Divide(Convert.ToInt16(txtNum1.Text), Convert.ToInt16(txtNum2.Text)).ToString();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+        }
     }
 }

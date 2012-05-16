@@ -21,6 +21,10 @@ namespace hub3r
         }
         public int Divide(int y, int x)
         {
+            if (y == 0)
+            {
+                throw new Exception("You tried to divide by zero!");
+            }
             return x / y;
         }
         

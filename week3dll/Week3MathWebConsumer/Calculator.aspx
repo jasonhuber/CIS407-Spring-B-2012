@@ -15,6 +15,8 @@
             runat="server"></asp:TextBox><br />
         <asp:Button
                 ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
+                <asp:Button ID="btnDivide" runat="server" Text="Button" onclick="btnDivide_Click" />
+    
     </div>
     </form>
 </body>
