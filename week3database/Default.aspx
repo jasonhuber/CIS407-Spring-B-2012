@@ -4,7 +4,8 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-   <a href="page2.aspx">page 2!</a>
+   <a href="page2.aspx">Insert Page</a><br />
+   <a href="SelectRepeater.aspx">Select Repeater</a><br />
    
     <asp:GridView ID="GridView1" runat="server" AllowSorting="True" 
     AutoGenerateColumns="False" CellPadding="4" DataKeyNames="username" 

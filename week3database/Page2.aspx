@@ -7,6 +7,10 @@
     Password: <asp:TextBox ID="txtPassword" runat="server"></asp:TextBox><br />
     <asp:Button ID="btnInsert" runat="server" Text="INSERT!" 
         onclick="btnInsert_Click" />
-
+    <asp:Button ID="btnUpdate" runat="server" Text="Update!" 
+        onclick="btnUpdate_Click" />
+    <asp:Button ID="btnDelete" runat="server" Text="Delete!" 
+        onclick="btnDelete_Click" />
+    <br />
 </asp:Content>
 
